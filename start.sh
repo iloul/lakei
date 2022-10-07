@@ -3,8 +3,8 @@
 # configs
 AUUID=e1c0d2e1-ec96-434d-a499-f6743c5ca649
 CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
-CONFIGCADDY=https://raw.githubusercontent.com/poiuyttto/lakei/master/etc/Caddyfile
-CONFIGXRAY=https://raw.githubusercontent.com/poiuyttto/lakei/master/etc/xray.json
+CONFIGCADDY=https://raw.githubusercontent.com/loiu123/lakei/master/etc/Caddyfile
+CONFIGXRAY=https://raw.githubusercontent.com/loiu123/lakei/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
 StoreFiles=https://raw.githubusercontent.com/poiuyttto/lakei/master/etc/StoreFiles
 #PORT=4433
